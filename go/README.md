@@ -1,0 +1,1 @@
+https://github.com/canha/golang-tools-install-script
