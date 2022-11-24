@@ -13,7 +13,7 @@ set -e
 #   $ sh test-docker.sh
 #
 # NOTE: Make sure to verify the contents of the script
-#       you downloaded matches the contents of install.sh
+#       you downloaded matches the contents of wezterm.sh
 #       located at https://github.com/docker/docker-install
 #       before executing.
 #
